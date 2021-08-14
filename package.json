@@ -13,6 +13,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "knex": "0.21.18",
+    "pg-connection-string": "^2.5.0",
     "slugify": "^1.5.3",
     "sqlite3": "5.0.0",
     "strapi": "3.6.3",

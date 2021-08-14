@@ -9,6 +9,8 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
+package-lock.json
+yarn.lock
 
 
 ############################
